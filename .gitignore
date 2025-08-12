@@ -1,0 +1,8 @@
+# Ignore large point cloud data
+*.las
+*.laz
+*.asc
+*.tif
+
+# Ignore output folders
+outputs/
